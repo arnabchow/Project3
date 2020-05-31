@@ -3,7 +3,7 @@
 
 <?php
 
-print "welcome to Arnab web server for testing Page";
+print "welcome to Arnab web server for testing Page.";
 print `date`;
 
 
