@@ -2,9 +2,9 @@
 <pre>
 
 <?php
-echo "<body style='background-color:pink'>";
+echo "<body style='background-color:yellow'>";
 print "welcome to Arnab web server for testing";
-print `date`;
+
 
 
 ;
